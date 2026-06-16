@@ -27,6 +27,10 @@ Resgatando The Dead Zone é um projeto de revitalização da comunidade para The
 
 > **⚠️ Aviso:** Observação: Este é um projeto não oficial. Todos os direitos sobre The Last Stand: Dead Zone são propriedade exclusiva da Con Artist Games, que nos concedeu permissão para este projeto.
 
+> **⚠️ Aviso de segurança:** Este projeto utiliza versões desatualizadas do Kotlin que podem conter vulnerabilidades de segurança conhecidas e não deve ser usado em produção. O código em si é seguro e pode ser executado localmente.
+
+Esta versão foi originalmente lançada pela Dead Zone Revive e está hospedada aqui para fins de preservação. Se você tem interesse no projeto, sinta-se à vontade para contribuir!
+
 > 📚 Consulte [ARCHITECTURE.md](./ARCHITECTURE.md) para mais detalhes.
 
 ## 📋 Pré-requisitos

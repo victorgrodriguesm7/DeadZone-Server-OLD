@@ -26,6 +26,10 @@ Recapturing The DeadZone est un projet de renaissance communautaire pour **The L
 
 > **⚠️ Note:** Il s’agit d’un projet non officiel. Tous les droits de The Last Stand: Dead Zone sont la propriété exclusive de Con Artist Games, qui nous a accordé leur autorisation pour ce projet.
 
+> **⚠️ Avis de sécurité :** Ce projet utilise des versions obsolètes de Kotlin qui peuvent contenir des vulnérabilités de sécurité connues et ne doit pas être utilisé en production. Le code lui-même est sûr et peut être exécuté en local.
+
+Cette version a été initialement publiée par Dead Zone Revive et est hébergée ici à des fins de préservation. Si le projet vous intéresse, n'hésitez pas à contribuer !
+
 > 📚 Voir [ARCHITECTURE.md](./ARCHITECTURE.md) pour plus de détails
 
 ## 📋 Prérequis
